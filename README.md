@@ -26,4 +26,5 @@ Baja team in DUT
 
 ## Strength Check
 
-
+![9](https://user-images.githubusercontent.com/48986602/141649053-c3c4a2c5-145d-432b-8cbe-a7a27c7945e0.jpg)
+![10](https://user-images.githubusercontent.com/48986602/141649059-b83320a2-b8b6-435f-9d2a-38599d6b5759.jpg)
