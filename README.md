@@ -21,7 +21,8 @@ Baja team in DUT
 
 ## Solid modeling
 
-
+![7](https://user-images.githubusercontent.com/48986602/141649028-2542caf1-c520-4c86-b06d-6584f2ed320d.jpg)
+![8](https://user-images.githubusercontent.com/48986602/141649031-95879af3-f974-479e-b9ca-c564f9427d6e.jpg)
 
 ## Strength Check
 
