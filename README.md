@@ -8,4 +8,20 @@ Baja team in DUT
 
 ## Simulate Ackerman geometry in Adams
 
+![3](https://user-images.githubusercontent.com/48986602/141648965-b2cde576-d215-4fd6-b4e1-a267d2ffbe73.jpg)
+
+## Achieve Ackerman curve and Camber curve
+
+
+
+## Use Adams Insight to optimize design
+
+
+
+## Solid modeling
+
+
+
+## Strength Check
+
 
