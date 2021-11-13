@@ -12,7 +12,8 @@ Baja team in DUT
 
 ## Achieve Ackerman curve and Camber curve
 
-
+![4](https://user-images.githubusercontent.com/48986602/141648988-5d8d858e-b995-40fc-aa39-efbf5507fa52.jpg)
+![5](https://user-images.githubusercontent.com/48986602/141648994-0abb3033-614d-4a7a-baed-b37bed54a701.jpg)
 
 ## Use Adams Insight to optimize design
 
