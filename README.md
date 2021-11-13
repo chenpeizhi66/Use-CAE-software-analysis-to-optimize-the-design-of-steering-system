@@ -17,7 +17,7 @@ Baja team in DUT
 
 ## Use Adams Insight to optimize design
 
-
+![6](https://user-images.githubusercontent.com/48986602/141649010-568ee92a-3791-4fe5-8584-21da624370c2.jpg)
 
 ## Solid modeling
 
